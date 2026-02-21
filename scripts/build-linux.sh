@@ -216,3 +216,4 @@ mv *.AppImage "$DIST/" 2>/dev/null || true
 rm -f "$ICON"
 
 echo "✅ Done! AppImage is in: $DIST"
+
