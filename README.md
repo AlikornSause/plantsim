@@ -79,7 +79,7 @@ If you encounter issues with a prebuilt binary, consider building from source us
 | --------------------------------------------- | --------------------------------------|
 | [raylib](https://www.raylib.com/)             | Graphics, window, input handling      |
 | [ImGui](https://github.com/ocornut/imgui)     | GUI overlay rendering                 |
-| [rlImGui](https://github.com/corlane/rlImGui) | Raylib + ImGui integration            |
+| [rlImGui](https://github.com/raylib-extras/rlImGui.git) | Raylib + ImGui integration            |
 | [FFmpeg](https://ffmpeg.org/)                 | (LINUX ONLY): video asset processing  |
 
 All libraries are automatically cloned and built by the scripts.
